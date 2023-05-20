@@ -2,7 +2,8 @@
 My Portfolio
 <h1 align="center">Hi 👋, I'm AKASH ARUN TAYADE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" scr="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+![coding](https://github.com/Akash12233/Akash.Tayade/assets/121252393/fecd18a1-792e-432c-8720-1090f3b4457b)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash12233&label=Profile%20views&color=0e75b6&style=flat" alt="akash12233" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash12233" alt="akash12233" /></a> </p>
